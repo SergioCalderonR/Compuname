@@ -1,0 +1,2 @@
+# Compuname
+Sets computer name
